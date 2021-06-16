@@ -16,5 +16,5 @@
 
 ##### 1.3 参考资料
 Jetson Nano主板： https://www.yahboom.com/study/jetson-nano   密码： 72q3  
-Jetson Nano亚克力外壳 ：https://www.yahboom.com/study_module/jn-shell   tbir
+Jetson Nano亚克力外壳 ：https://www.yahboom.com/study_module/jn-shell   tbir  
 YAHBOOM分享的资料：链接：https://pan.baidu.com/s/1WOS9_QwX6YQKWsOclZKUtA  取码：3ylz 
